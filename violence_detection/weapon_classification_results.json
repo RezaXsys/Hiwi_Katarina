@@ -2372,13 +2372,873 @@
             "classes": [
                 "Gun"
             ]
+        },
+        {
+            "image_name": "id_1081558970689564674_2019-01-05.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1084970377208623104_2019-01-15.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1087692494433894400_2019-01-22.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1090149936648372225_2019-01-29.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1089559912944939008_2019-01-27.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1088487353415548928_2019-01-24.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1088431236471676929_2019-01-24.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1082331552447553536_2019-01-07.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1086013279019757569_2019-01-17.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1088026438400323585_2019-01-23.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1080216369348538368_2019-01-01.jpg",
+            "classes": [
+                "Gun",
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1090942595851677696_2019-01-31.jpg",
+            "classes": [
+                "Grenade",
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1084850363755311106_2019-01-14.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1085186496842190849_2019-01-15.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1087269893727272965_2019-01-21.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1083070856488718336_2019-01-09.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1085599779315429380_2019-01-16.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1087746749257510912_2019-01-22.jpg",
+            "classes": [
+                "Grenade",
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1086244351003557888_2019-01-18.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1088183428741324820_2019-01-23.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1087319087603240960_2019-01-21.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1086657375124230145_2019-01-19.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1087524532301094913_2019-01-22.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1089599335493525510_2019-01-27.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1080388270813528064_2019-01-02.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1081133255385063425_2019-01-04.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1088011711079215104_2019-01-23.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1084910534103830530_2019-01-14.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1081207161294774272_2019-01-04.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1083384685315743744_2019-01-10.jpg",
+            "classes": [
+                "Pistol",
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1088721294336626689_2019-01-25.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1085896282890297344_2019-01-17.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1086731549318406144_2019-01-19.jpg",
+            "classes": [
+                "Gun",
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1087587541434462211_2019-01-22.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1086385767071522817_2019-01-18.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1090903341293547520_2019-01-31.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1086971607992676354_2019-01-20.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1085581968362749952_2019-01-16.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1081320621097840642_2019-01-04.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1082416182559469569_2019-01-07.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1082311170499866625_2019-01-07.jpg",
+            "classes": [
+                "Gun",
+                "Gun",
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1090728938584895489_2019-01-30.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1087367511224606721_2019-01-21.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1086551676956409857_2019-01-19.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1088641441570598912_2019-01-25.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1084428764153630720_2019-01-13.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1090568860753973248_2019-01-30.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1089886367176224768_2019-01-28.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1084865111460728834_2019-01-14.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1080585447011766272_2019-01-02.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1090235129753202690_2019-01-29.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1082573789035139072_2019-01-08.jpg",
+            "classes": [
+                "Gun",
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1085519931817377793_2019-01-16.jpg",
+            "classes": [
+                "Gun",
+                "Gun",
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1084864630529449986_2019-01-14.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1086478213088333825_2019-01-19.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1090718000154587138_2019-01-30.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1087620917646233607_2019-01-22.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1091083946878816260_2019-01-31.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1087710303876464646_2019-01-22.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1087581300402339841_2019-01-22.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1087298650038910977_2019-01-21.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1088890005102055424_2019-01-25.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1085951209465204736_2019-01-17.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1087653850662658048_2019-01-22.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1080542249518272518_2019-01-02.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1080760016779558912_2019-01-03.jpg",
+            "classes": [
+                "Grenade",
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1080305525563117570_2019-01-02.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1084776075643756545_2019-01-14.jpg",
+            "classes": [
+                "Gun",
+                "Gun",
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1082708253941878787_2019-01-08.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1088677919835197441_2019-01-25.jpg",
+            "classes": [
+                "Grenade",
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1090584120827301888_2019-01-30.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1088179794183966720_2019-01-23.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1088188388010876936_2019-01-23.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1085803166870863874_2019-01-17.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1082041826662629378_2019-01-06.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1082969212493144064_2019-01-09.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1088377458531942401_2019-01-24.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1089886361232957442_2019-01-28.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1080749558655864832_2019-01-03.jpg",
+            "classes": [
+                "Grenade",
+                "Grenade",
+                "Grenade",
+                "Grenade",
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1081317635520978945_2019-01-04.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1084899746483970048_2019-01-14.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1086717689538715654_2019-01-19.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1080822854994874368_2019-01-03.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1088628044196184064_2019-01-25.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1082619327529000960_2019-01-08.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1086839198278012929_2019-01-20.jpg",
+            "classes": [
+                "Knife",
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1089729093116092422_2019-01-28.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1087099333407694848_2019-01-20.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1091119288759566338_2019-01-31.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1088013108512243713_2019-01-23.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1088482707515027457_2019-01-24.jpg",
+            "classes": [
+                "Gun",
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1084777751591247872_2019-01-14.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1080724379325984768_2019-01-03.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1085989407482621953_2019-01-17.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1084526782806716416_2019-01-13.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1089769975454359552_2019-01-28.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1086321443359449088_2019-01-18.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1081051358705451008_2019-01-04.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1089797601715777537_2019-01-28.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1082546959834071040_2019-01-08.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1084782362947403779_2019-01-14.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1082795422010261506_2019-01-09.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1090121392941662208_2019-01-29.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1085202035623055360_2019-01-15.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1088049092905713664_2019-01-23.jpg",
+            "classes": [
+                "Knife",
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1086270492313567232_2019-01-18.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1081695598187827201_2019-01-05.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1081460262979465216_2019-01-05.jpg",
+            "classes": [
+                "Gun",
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1088809988284395521_2019-01-25.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1085997743158513669_2019-01-17.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1086360189454991362_2019-01-18.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1087508169708920832_2019-01-22.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1081129060590329857_2019-01-04.jpg",
+            "classes": [
+                "Grenade",
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1084945908565970950_2019-01-14.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1080389038572478465_2019-01-02.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1091007523564457986_2019-01-31.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1090895720046096384_2019-01-31.jpg",
+            "classes": [
+                "Pistol"
+            ]
+        },
+        {
+            "image_name": "id_1081370026396012547_2019-01-05.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1085356246801231872_2019-01-16.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1088446331956404224_2019-01-24.jpg",
+            "classes": [
+                "Gun",
+                "Gun",
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1083267228814974977_2019-01-10.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1089964987299307521_2019-01-28.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1086432320662528001_2019-01-19.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1082868116001091584_2019-01-09.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1085020030679613441_2019-01-15.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1080096060314447873_2019-01-01.jpg",
+            "classes": [
+                "Gun",
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1082432618203934720_2019-01-08.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1086430047131631616_2019-01-19.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1088038929922576388_2019-01-23.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1088421430662975488_2019-01-24.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1085839158084460546_2019-01-17.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1083786287339966466_2019-01-11.jpg",
+            "classes": [
+                "Grenade"
+            ]
+        },
+        {
+            "image_name": "id_1090609896972845056_2019-01-30.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1086572421749096450_2019-01-19.jpg",
+            "classes": [
+                "Baton"
+            ]
+        },
+        {
+            "image_name": "id_1090552981047599104_2019-01-30.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1086413687756386305_2019-01-19.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1082398891029327872_2019-01-07.jpg",
+            "classes": [
+                "Knife"
+            ]
+        },
+        {
+            "image_name": "id_1085169069551247360_2019-01-15.jpg",
+            "classes": [
+                "Gun"
+            ]
+        },
+        {
+            "image_name": "id_1090175727352336384_2019-01-29.jpg",
+            "classes": [
+                "Pistol"
+            ]
         }
     ],
     "summary": {
-        "Grenade": 118,
-        "Knife": 66,
-        "Baton": 45,
-        "Pistol": 46,
-        "Gun": 163
+        "Grenade": 161,
+        "Knife": 90,
+        "Baton": 57,
+        "Pistol": 64,
+        "Gun": 231
     }
 }

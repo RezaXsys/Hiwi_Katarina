@@ -1,0 +1,30 @@
+[
+    {
+        "main": "https://pbs.twimg.com/media/EzW1KvAXMAAo7Xm.jpg",
+        "alternatives": [
+            "https://pbs.twimg.com/media/EzW1KvAXMAAo7Xm?format=jpg&name=small",
+            "https://pbs.twimg.com/media/EzW1KvAXMAAo7Xm?format=jpg&name=medium"
+        ]
+    },
+    {
+        "main": "https://pbs.twimg.com/media/EzW1nBXWEAAYXlR.jpg",
+        "alternatives": [
+            "https://pbs.twimg.com/media/EzW1nBXWEAAYXlR?format=jpg&name=small",
+            "https://pbs.twimg.com/media/EzW1nBXWEAAYXlR?format=jpg&name=large"
+        ]
+    },
+    {
+        "main": "https://pbs.twimg.com/media/Fj8gUnwWQAA_BhF.jpg",
+        "alternatives": [
+            "https://pbs.twimg.com/media/Fj8gUnwWQAA_BhF?format=jpg&name=small",
+            "https://pbs.twimg.com/media/Fj8gUnwWQAA_BhF?format=jpg&name=medium"
+        ]
+    },
+    {
+        "main": "https://pbs.twimg.com/media/Fj8gUnwXEAATQ1M.jpg",
+        "alternatives": [
+            "https://pbs.twimg.com/media/Fj8gUnwXEAATQ1M?format=jpg&name=small",
+            "https://pbs.twimg.com/media/Fj8gUnwXEAATQ1M?format=jpg&name=large"
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "main": "https://pbs.twimg.com/media/EzW1KvAXMAAo7Xm.jpg",
+        "alternatives": [
+            "https://pbs.twimg.com/media/EzW1KvAXMAAo7Xm?format=jpg&name=small"
+        ],
+        "label": "Klimawandel",
+        "tweet": "Diskussion über steigende Temperaturen weltweit"
+    },
+    {
+        "main": "https://pbs.twimg.com/media/EzW1nBXWEAAYXlR.jpg",
+        "alternatives": [],
+        "label": "Politik",
+        "tweet": "Kommentar zu internationalen Handelsabkommen"
+    }
+]

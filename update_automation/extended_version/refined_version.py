@@ -16,7 +16,6 @@ nltk.download('stopwords')
 
 #   Überprüft, ob ein Link gültig ist
 def validate_link(link):
-   
     try:
         response = requests.head(link, timeout=5)
         return response.status_code == 200

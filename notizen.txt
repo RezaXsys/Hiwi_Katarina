@@ -1,13 +1,13 @@
 TODO 
-* env mit abspeichern 
-* überschenidungen mit clip und modell roboföo 
+* env mit abspeichern == ist erledigt 
+* überschenidungen mit clip und modell roboflow
     * einen Treshhold 20 % ein Bild 500 Bilder 
     * Clip 
     /ceph/lprasse/ClimateVisions/Tweet_Dataset/nsfw_cleaning/assess_violence.py
 
     /ceph/lprasse/ClimateVisions/Tweet_Dataset/nsfw_cleaning/final_res/sim_violence_3.torch
      alle tweets schon mit sim torch.load 
-    wenn 500 bilder tresh hold runter setzne 
+    wenn 500 bilder classifiziert  tresh hold runter setzne 
 
 
 * nochmal neus model mit roboflow -> Huggingface ===> Überschneidungen 

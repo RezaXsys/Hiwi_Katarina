@@ -39,6 +39,7 @@ def categorize_tweet(tweet_context):
         "Klimawandel": ["climate", "temperature", "global", "warming"],
         "Politik": ["politics", "government", "election", "policy"],
         "Technologie": ["technology", "innovation", "AI", "software"]
+        # TODO: Sollte bei Bedarf definitiv erweitert werden 
     }
 
     category_counts = Counter()

@@ -23,3 +23,10 @@ This project uses the following key Python packages and their versions:
 * ultralytics: 8.3.56
   
 For the full list of installed packages and versions, refer to the requirements.txt file or the detailed package output.
+
+
+## TWO FOLDER 
+
+1. Automation Code for Updating the image database - update_automation
+
+2. Violence Detection in Image Data Set - violence_detection

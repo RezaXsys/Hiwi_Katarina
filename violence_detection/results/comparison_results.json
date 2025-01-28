@@ -1,0 +1,514 @@
+[
+    {
+        "image_name": "id_1080638380466204672_2019-01-03.jpg",
+        "detected_classes": [
+            "Knife"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.17108654975891113,
+        "match": false
+    },
+    {
+        "image_name": "id_1080192181284028416_2019-01-01.jpg",
+        "detected_classes": [
+            "Knife"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.14021097123622894,
+        "match": false
+    },
+    {
+        "image_name": "id_1080618686275309569_2019-01-03.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.13696321845054626,
+        "match": false
+    },
+    {
+        "image_name": "id_1080418713566887936_2019-01-02.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.11354461312294006,
+        "match": false
+    },
+    {
+        "image_name": "id_1080544662945964033_2019-01-02.jpg",
+        "detected_classes": [
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.13655106723308563,
+        "match": false
+    },
+    {
+        "image_name": "id_1080303178569207808_2019-01-02.jpg",
+        "detected_classes": [
+            "Baton"
+        ],
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.0995200052857399,
+        "match": false
+    },
+    {
+        "image_name": "id_1080234390649741312_2019-01-01.jpg",
+        "detected_classes": [
+            "Knife"
+        ],
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.18041113018989563,
+        "match": false
+    },
+    {
+        "image_name": "id_1080553849767845888_2019-01-02.jpg",
+        "detected_classes": [
+            "Knife"
+        ],
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.15689504146575928,
+        "match": false
+    },
+    {
+        "image_name": "id_1079931065068851203_2019-01-01.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.14362774789333344,
+        "match": false
+    },
+    {
+        "image_name": "id_1080839774917836832_2019-01-03.jpg",
+        "detected_classes": [
+            "Gun",
+            "Gun"
+        ],
+        "torch_related_text": "a photo of violence",
+        "torch_similarity_score": 0.10699091851711273,
+        "match": false
+    },
+    {
+        "image_name": "id_1080192687377018880_2019-01-01.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.1215757206082344,
+        "match": false
+    },
+    {
+        "image_name": "id_1080332859456610304_2019-01-02.jpg",
+        "detected_classes": [
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.1655847728252411,
+        "match": false
+    },
+    {
+        "image_name": "id_1080494057963618305_2019-01-02.jpg",
+        "detected_classes": [
+            "Grenade",
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.13313180208206177,
+        "match": false
+    },
+    {
+        "image_name": "id_1080660544250470400_2019-01-03.jpg",
+        "detected_classes": [
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.16464751958847046,
+        "match": false
+    },
+    {
+        "image_name": "id_1081018933786816512_2019-01-04.jpg",
+        "detected_classes": [
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.16053149104118347,
+        "match": false
+    },
+    {
+        "image_name": "id_1080880672674320385_2019-01-03.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.1479150354862213,
+        "match": false
+    },
+    {
+        "image_name": "id_1080476070879596545_2019-01-02.jpg",
+        "detected_classes": [
+            "Knife",
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.12980487942695618,
+        "match": false
+    },
+    {
+        "image_name": "id_1080187938120454144_2019-01-01.jpg",
+        "detected_classes": [
+            "Gun",
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a bomb",
+        "torch_similarity_score": 0.16590900719165802,
+        "match": false
+    },
+    {
+        "image_name": "id_1080970837732347905_2019-01-03.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.18664908409118652,
+        "match": false
+    },
+    {
+        "image_name": "id_1080685093167853569_2019-01-03.jpg",
+        "detected_classes": [
+            "Knife"
+        ],
+        "torch_related_text": "a photo of violence",
+        "torch_similarity_score": 0.16492632031440735,
+        "match": false
+    },
+    {
+        "image_name": "id_1080516853900861440_2019-01-02.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.14535613358020782,
+        "match": false
+    },
+    {
+        "image_name": "id_1080884467231834112_2019-01-03.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.15432900190353394,
+        "match": false
+    },
+    {
+        "image_name": "id_1080879718566715392_2019-01-03.jpg",
+        "detected_classes": [
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of violence",
+        "torch_similarity_score": 0.11194131523370743,
+        "match": false
+    },
+    {
+        "image_name": "id_1080523837207465985_2019-01-02.jpg",
+        "detected_classes": [
+            "Grenade",
+            "Grenade",
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.13619431853294373,
+        "match": false
+    },
+    {
+        "image_name": "id_1080504503407915009_2019-01-02.jpg",
+        "detected_classes": [
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.17709782719612122,
+        "match": false
+    },
+    {
+        "image_name": "id_1080216369348538368_2019-01-01.jpg",
+        "detected_classes": [
+            "Gun",
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a bomb",
+        "torch_similarity_score": 0.16590900719165802,
+        "match": false
+    },
+    {
+        "image_name": "id_1080388270813528064_2019-01-02.jpg",
+        "detected_classes": [
+            "Pistol"
+        ],
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.12234627455472946,
+        "match": false
+    },
+    {
+        "image_name": "id_1081133255385063425_2019-01-04.jpg",
+        "detected_classes": [
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.18830712139606476,
+        "match": false
+    },
+    {
+        "image_name": "id_1080585447011766272_2019-01-02.jpg",
+        "detected_classes": [
+            "Knife"
+        ],
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.17162145674228668,
+        "match": false
+    },
+    {
+        "image_name": "id_1080542249518272518_2019-01-02.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.13987521827220917,
+        "match": false
+    },
+    {
+        "image_name": "id_1080760016779558912_2019-01-03.jpg",
+        "detected_classes": [
+            "Grenade",
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.15699143707752228,
+        "match": false
+    },
+    {
+        "image_name": "id_1080305525563117570_2019-01-02.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.15773174166679382,
+        "match": false
+    },
+    {
+        "image_name": "id_1080749558655864832_2019-01-03.jpg",
+        "detected_classes": [
+            "Grenade",
+            "Grenade",
+            "Grenade",
+            "Grenade",
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.18104097247123718,
+        "match": false
+    },
+    {
+        "image_name": "id_1080822854994874368_2019-01-03.jpg",
+        "detected_classes": [
+            "Baton"
+        ],
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.13965660333633423,
+        "match": false
+    },
+    {
+        "image_name": "id_1080724379325984768_2019-01-03.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.13696321845054626,
+        "match": false
+    },
+    {
+        "image_name": "id_1081051358705451008_2019-01-04.jpg",
+        "detected_classes": [
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.1603587418794632,
+        "match": false
+    },
+    {
+        "image_name": "id_1081129060590329857_2019-01-04.jpg",
+        "detected_classes": [
+            "Grenade",
+            "Grenade"
+        ],
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.16031041741371155,
+        "match": false
+    },
+    {
+        "image_name": "id_1080389038572478465_2019-01-02.jpg",
+        "detected_classes": [
+            "Baton"
+        ],
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.13456390798091888,
+        "match": false
+    },
+    {
+        "image_name": "id_1080096060314447873_2019-01-01.jpg",
+        "detected_classes": [
+            "Gun",
+            "Gun"
+        ],
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.16333477199077606,
+        "match": false
+    },
+    {
+        "image_name": "id_1080686610826571776_2019-01-03.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.13696321845054626,
+        "match": false
+    },
+    {
+        "image_name": "id_1080807685031936000_2019-01-03.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.13696321845054626,
+        "match": false
+    },
+    {
+        "image_name": "id_1080466144497160193_2019-01-02.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of violence",
+        "torch_similarity_score": 0.12458937615156174,
+        "match": false
+    },
+    {
+        "image_name": "id_1080721929953251328_2019-01-03.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.1590997576713562,
+        "match": false
+    },
+    {
+        "image_name": "id_1080626850483843072_2019-01-03.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.16464751958847046,
+        "match": false
+    },
+    {
+        "image_name": "id_1080574283745701888_2019-01-02.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of violence",
+        "torch_similarity_score": 0.17665943503379822,
+        "match": false
+    },
+    {
+        "image_name": "id_1080781129425317888_2019-01-03.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.1829492449760437,
+        "match": false
+    },
+    {
+        "image_name": "id_1080388193130856449_2019-01-02.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.18201692402362823,
+        "match": false
+    },
+    {
+        "image_name": "id_1080900401954803713_2019-01-03.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of violence",
+        "torch_similarity_score": 0.14297355711460114,
+        "match": false
+    },
+    {
+        "image_name": "id_1080811027321839616_2019-01-03.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.1345376819372177,
+        "match": false
+    },
+    {
+        "image_name": "id_1081146394398863363_2019-01-04.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.19694863259792328,
+        "match": false
+    },
+    {
+        "image_name": "id_1080443642580488193_2019-01-02.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.14608046412467957,
+        "match": false
+    },
+    {
+        "image_name": "id_1080101626344599553_2019-01-01.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.13517829775810242,
+        "match": false
+    },
+    {
+        "image_name": "id_1080133838163099649_2019-01-01.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.10662662237882614,
+        "match": false
+    },
+    {
+        "image_name": "id_1080211431864389633_2019-01-01.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.12425735592842102,
+        "match": false
+    },
+    {
+        "image_name": "id_1080833692732403712_2019-01-03.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.18381085991859436,
+        "match": false
+    },
+    {
+        "image_name": "id_1080935086021857280_2019-01-03.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.1443343311548233,
+        "match": false
+    },
+    {
+        "image_name": "id_1080479052186746881_2019-01-02.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of violence",
+        "torch_similarity_score": 0.14162617921829224,
+        "match": false
+    },
+    {
+        "image_name": "id_1080506766855671809_2019-01-02.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a shooting",
+        "torch_similarity_score": 0.14700552821159363,
+        "match": false
+    },
+    {
+        "image_name": "id_1081115135559823360_2019-01-04.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a killing",
+        "torch_similarity_score": 0.14287523925304413,
+        "match": false
+    },
+    {
+        "image_name": "id_1081116783849938945_2019-01-04.jpg",
+        "detected_classes": null,
+        "torch_related_text": "a photo of a weapon",
+        "torch_similarity_score": 0.1421075165271759,
+        "match": false
+    }
+]

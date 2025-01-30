@@ -12,6 +12,7 @@ RESULTS_FILE = "/Users/apple/Documents/HIWI_Katharina/Hiwi_Katarina/violence_det
 clip_processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
 clip_model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
 
+#------------------------------ METHODS ------------------------------------------------------------
 
 def load_roboflow_results(filepath):
     """Loads and processes the weapon classification results from Roboflow."""
@@ -85,6 +86,8 @@ def compare_results(clip_results, roboflow_results):
     return comparison_stats
 
 
+#----------------------------- MAIN ----------------------------------------------------------------------------
+
 def main():
     """Main execution function."""
     # Load images
@@ -118,3 +121,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# TODO: 
+# Issues = to much images => UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+# 1 Convert Images to RGB Mode
+# 2 Reducing Dataset Size for Testing 
+# 3 Add Progress Tracking -> showing porgress bar, so you know ho many images are left 

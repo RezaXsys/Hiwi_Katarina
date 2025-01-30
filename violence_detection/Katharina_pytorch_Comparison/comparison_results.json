@@ -1,74 +1,74 @@
 {
     "0.1": {
-        "correct": 459,
-        "false_positives": 380,
+        "correct": 91,
+        "false_positives": 8,
         "false_negatives": 0,
-        "precision": 0.55,
+        "precision": 0.92,
         "recall": 1.0,
-        "f1_score": 0.71
+        "f1_score": 0.96
     },
     "0.2": {
-        "correct": 441,
-        "false_positives": 367,
+        "correct": 88,
+        "false_positives": 8,
         "false_negatives": 0,
-        "precision": 0.55,
+        "precision": 0.92,
         "recall": 1.0,
-        "f1_score": 0.71
+        "f1_score": 0.96
     },
     "0.30000000000000004": {
-        "correct": 408,
-        "false_positives": 338,
+        "correct": 84,
+        "false_positives": 7,
         "false_negatives": 0,
-        "precision": 0.55,
+        "precision": 0.92,
         "recall": 1.0,
-        "f1_score": 0.71
+        "f1_score": 0.96
     },
     "0.4": {
-        "correct": 362,
-        "false_positives": 298,
+        "correct": 70,
+        "false_positives": 6,
         "false_negatives": 0,
-        "precision": 0.55,
+        "precision": 0.92,
         "recall": 1.0,
-        "f1_score": 0.71
+        "f1_score": 0.96
     },
     "0.5": {
-        "correct": 301,
-        "false_positives": 241,
+        "correct": 57,
+        "false_positives": 6,
         "false_negatives": 0,
-        "precision": 0.56,
+        "precision": 0.9,
         "recall": 1.0,
-        "f1_score": 0.71
+        "f1_score": 0.95
     },
     "0.6000000000000001": {
-        "correct": 226,
-        "false_positives": 192,
+        "correct": 41,
+        "false_positives": 6,
         "false_negatives": 0,
-        "precision": 0.54,
+        "precision": 0.87,
         "recall": 1.0,
-        "f1_score": 0.7
+        "f1_score": 0.93
     },
     "0.7000000000000001": {
-        "correct": 153,
-        "false_positives": 138,
+        "correct": 25,
+        "false_positives": 5,
         "false_negatives": 0,
-        "precision": 0.53,
+        "precision": 0.83,
         "recall": 1.0,
-        "f1_score": 0.69
+        "f1_score": 0.91
     },
     "0.8": {
-        "correct": 65,
-        "false_positives": 70,
+        "correct": 9,
+        "false_positives": 4,
         "false_negatives": 0,
-        "precision": 0.48,
+        "precision": 0.69,
         "recall": 1.0,
-        "f1_score": 0.65
+        "f1_score": 0.82
     },
     "0.9": {
-        "correct": 16,
-        "false_positives": 14,
+        "correct": 3,
+        "false_positives": 0,
         "false_negatives": 0,
-        "precision": 0.53,
+        "precision": 1.0,
         "recall": 1.0,
-        "f1_score": 0.7
+        "f1_score": 1.0
     }
 }

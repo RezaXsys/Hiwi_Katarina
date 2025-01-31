@@ -25,9 +25,8 @@ This project uses the following key Python packages and their versions:
 For the full list of installed packages and versions, refer to the requirements.txt file or the detailed package output.
 
 
-## TWO FOLDER 
+## Link Validation and Tweet Categorization Script- update_automation
 
-1. Link Validation and Tweet Categorization Script- update_automation
 /Hiwi_Katarina/update_automation/extended_version
 
 ### Overview
@@ -69,4 +68,74 @@ Dependencies : pip install requests nltk
 * link_check.log → Log file with deleted links and statistics
 * deleted_links.csv → CSV file containing details of removed links
 
-2. Violence Detection in Image Data Set - violence_detection
+## Violence Detection in Image Data Set - violence_detection
+
+### Image Classification and Comparison - `clip_weapon_detection`
+This module uses **OpenAI's CLIP model** to classify images as **weapon** or **not weapon**, then compares the results against **Roboflow's ground truth labels**.  
+
+#### Functionality:
+- Loads and processes weapon classification results from Roboflow  
+- Runs CLIP model to classify images based on defined thresholds  
+- Compares CLIP's predictions with Roboflow's ground truth  
+- Calculates **precision, recall, and F1-score** for different thresholds  
+- Saves correctly classified weapon images for analysis  
+
+#### Usage: 
+Run the script to classify images and generate comparison statistics:  
+```bash
+python clip_weapon_detection.py
+```
+
+#### Input: 
+- **`IMAGE_FOLDER`** → Directory containing images for classification  
+- **`RESULTS_FILE`** → JSON file with Roboflow classification results  
+
+#### Output:  
+- **Matched weapon images** saved in **threshold-specific folders**  
+- **`comparison_results.json`** → Contains accuracy statistics per threshold  
+
+#### Customization: 
+Modify the **thresholds** in the script to adjust classification sensitivity:  
+```python
+thresholds = [i * 0.1 for i in range(1, 10)]  # 0.1, 0.2, ..., 0.9
+```
+
+---
+
+### 2. Tweet Categorization - `tweet_categorization` 
+A script that categorizes tweets into different topics using **NLTK-based keyword matching**.  
+
+#### Functionality:
+- Reads tweet text and categorizes it based on **predefined keywords**  
+- Uses **NLTK tokenization** and **stopword removal** to improve accuracy  
+
+#### Usage: 
+Run the script to categorize a sample tweet:  
+```bash
+python tweet_categorization.py
+```
+
+#### Example:
+```python
+tweet = "Global temperatures are rising due to climate change."
+category = categorize_tweet(tweet)
+print(category)  # Output: "Klimawandel"
+```
+
+#### Customization:  
+- Extend the `categories` dictionary in `categorize_tweet()` for additional topics.  
+
+## DEPENDENCIES 
+Ensure you have the necessary Python libraries installed:  
+```bash
+pip install torch transformers pillow tqdm nltk
+```
+
+Download required NLTK datasets:  
+```python
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+```
+
+---
